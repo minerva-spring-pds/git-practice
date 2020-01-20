@@ -9,6 +9,6 @@ Fill in the following details about yourself below:
 
 ## Kalia Barkai
 
-![kalia-pic](kalia-pic.jpg)
+![kalia-pic](kalia_pic.jpg)
 
 [30 Years of American Anxieties](https://pudding.cool/2018/11/dearabby/): Data journalism article analysing the submissions to one of America's longest running advice columns, "Dear Abby".
