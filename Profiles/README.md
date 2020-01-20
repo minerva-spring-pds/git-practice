@@ -7,5 +7,5 @@ Fill in the following details about yourself below:
 
 
 - Darya Dyachkova
--  ![alt text](https://github.com/ddyachkova/git-practice/blob/ddyachkova-patch-1/Profiles/me%20flowers.JPG){:height="50%" width="50%"}
+-  ![alt text](https://github.com/ddyachkova/git-practice/blob/ddyachkova-patch-1/Profiles/me%20flowers.JPGv=4&s=200)
 - [Dasha's favorite video](https://www.youtube.com/watch?v=lmTmGLzPVyM)
