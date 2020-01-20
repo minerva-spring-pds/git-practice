@@ -5,6 +5,6 @@ Fill in the following details about yourself below:
 - A link to your favourite [Pudding article](https://pudding.cool/) or music video
 
 
--- Darya Dyachkova
+- Darya Dyachkova
 - A picture of yourself
--- [Dasha's favorite video](https://www.youtube.com/watch?v=lmTmGLzPVyM)
+- [Dasha's favorite video](https://www.youtube.com/watch?v=lmTmGLzPVyM)
